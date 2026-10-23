@@ -1,0 +1,6 @@
+{
+  "name": "InventoryHub - User Inventory & Asset Manager",
+  "description": "Full-featured user inventory and asset management system with CRUD operations, relational SQL database, and complete Angular + ASP.NET Core solution architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
